@@ -11,9 +11,9 @@ Ele mostra o desempenho da produção ao longo do tempo, incluindo:
 
 
 Medidas:
-Horas produtivas - Soma
-horas trabalhadas - Soma
-Horas paradas - Horas trabalhadas / horas produtivas
+  Horas produtivas - Soma
+  horas trabalhadas - Soma
+  Horas paradas - Horas trabalhadas / horas produtivas
 
 Total produzido - Soma entre o total aprovado e total rejeitado
 Total aprovado - Soma entre quantidade produzida
